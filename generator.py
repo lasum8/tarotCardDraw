@@ -1,7 +1,7 @@
 import random
 
 # upper bound of drawing a major arcana
-majorArcanaMax = 22
+majorArcanaMax = 21
 
 # list of all available cards
 majorArcana = [
